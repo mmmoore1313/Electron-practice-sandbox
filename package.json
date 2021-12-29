@@ -1,0 +1,8 @@
+{
+  "name": "ElectronPracticeApp",
+  "version": "1.0.0",
+  "description": "This is my electron practice sandbox",
+  "main": "index.js",
+  "author": "Matt Moore and the electron quickstart guide",
+  "license": "MIT"
+}
